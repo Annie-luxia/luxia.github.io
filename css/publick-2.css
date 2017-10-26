@@ -1,0 +1,20 @@
+/* CSS Document */
+body{background:#ccc;font-family:'微软雅黑';background:#e55822; }
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,header,section,article{margin:0;padding:0;}
+a,input:focus{outline:none}
+button{border:none;vertical-align:middle;cursor:pointer}
+label{cursor:pointer}
+table{border-collapse:collapse;border-spacing:0;}
+input,textarea,button{outline:none;border:none;}
+i{display:inline-block;font-style:normal;} 
+ 
+/*公用样式*/
+html{font-size:62.5%;font-family:"微软雅黑";}
+a{text-decoration:none;}
+a:hover{ cursor:pointer;}
+ol,ul{list-style:none;}
+em,i{font-style:normal;}
+.fl{float:left;}
+.fr{float:right;}
+.mar{margin:0 auto;}
+.clear:after{clear:both;display:block;content:'';}

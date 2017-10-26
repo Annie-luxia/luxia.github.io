@@ -1,0 +1,238 @@
+.wrap{width:100%;height:auto; }
+ .toptu{width:100%; }
+ .toptu img{width:100%;}
+ /*包邮区域 */
+.yunfei,.Lwarp,.hbox,.sming-box{overflow: hidden}
+	/*背景色*/
+.bgcolor{width:100%;margin-top:-0.31rem;
+background-image:-webkit-linear-gradient(top, #a35b14, #fc8401);
+background-image:-moz-linear-gradient(top, #a35b14, #fc8401);
+background-image:-o-linear-gradient(top, #a35b14, #fc8401);
+background-image:-ms-linear-gradient(top, #a35b14, #fc8401);}
+	/*背景色 end*/
+	/*包邮图标*/
+.bybox{width:90%;height:17.5rem;margin-bottom:1rem;}
+.yunfei,.bg-1,.bg-2{background:#fff;}
+.yunfei{width:19%;height:17.5rem; position: relative;margin-right:0.9rem;}
+.yunfei-line{width:12rem;height:15.5rem;border:0.12rem solid #ff8500; margin-top:0.85rem;}
+.bg-1{width:10.5rem;height:17.5rem;position:absolute;top:0;left:1.7rem; }
+.bg-2{width:17.1rem;height:14rem;position:absolute;top:1.7rem;left:0; }
+
+.yuan-1,.yuan-2,.yuan-3{position:absolute;-webkit-border-radius: 50%;-moz-border-radius: 50%;-ms-border-radius: 50%;-o-border-radius: 50%;}
+.yuan-1{width:12.8rem;height:12.8rem;background:#ffedd9;top:50%;left:0.2rem;z-index: 3;margin-top:-6.45rem;margin-left:0.4rem;}
+.yuan-2,.yuan-3{top:1rem;left:1rem;}
+.yuan-2{width:10.8rem;height:10.8rem;background:#ffd8ae;}
+.yuan-3{width:8.8rem;height:8.8rem;background:#ff8500;}
+.yuan-3 p{color:#af2128; font-size: 2.2rem; text-align: center;}
+.yuan-3 p.txt{line-height: 8.2rem;}
+.bgicon{position: absolute;top:0;left:-0.4rem;z-index: 5;width:55rem;height:40rem; }
+
+@media only screen and (min-width:37.5rem) {
+	 
+}
+	/*包邮图标 end*/
+	/*我要充值*/
+.yuan-3 p.chongzhi{letter-spacing: -0.1rem; margin-top:2rem;}
+.yuan-3 p.nex-txt{font-size:1.6rem; margin-top:0.1rem;margin-left:0.2rem;}	
+	/*我要充值end*/
+	/*私人定制*/
+	.weibao{margin-right:0;}
+	/*私人定制*/
+/*包邮区域end*/
+
+/*乾元餐台*/
+.hanyuan{width:90%;height:43.5rem;background:#fff; }
+	/*左边文字*/
+.L-bian{height:43.5rem;}
+.L-bian p.tlt{font-size:5rem;margin:4.2rem 0 0.5rem 2.8rem;}
+.L-bian p.tlt span{font-weight: bold;color:#f88910; }
+.L-bian p.smtlt{width:17rem;height:3.2rem;background: #f88910; line-height:3.2rem;font-size:2.2rem;text-align: center;
+margin-bottom:1.6rem;letter-spacing:-0.1rem;margin-left:2.8rem;}
+p.tlt,p.smtlt{margin-left:1.5rem;letter-spacing: 0.2rem;}
+.L-bian .img-box img{margin:2rem 0 5.5rem 3.2rem; width:16rem;height:9.5rem;}
+.L-bian p.jia{color:red;font-size:2.2rem; text-indent: 1.5rem; letter-spacing: -0.1rem;}
+.L-bian span.jia{font-weight: bold;font-size:3rem;margin-left:-1rem;margin-top:-0.8rem;}
+	/*左边文字  end*/
+	/*购物车*/
+.shop-box{width:22.8rem;height:3rem;border-top:0.1rem solid #666;border-bottom:0.1rem solid #666; margin-top:0.2rem;}
+.L-box{width:2.6rem;height:3rem;border-left:0.1rem solid #666;border-right:0.1rem solid #666;margin-left:1.2rem;}
+.L-box img{margin:0.7rem 0.5rem 0.5rem 0.5rem;width:1.5rem;height:1.5rem; }
+.shop-box p{font-size:2.4rem;text-indent:1.5rem;line-height: 2.8rem;color:#666;}
+	/*购物车*/
+	
+	/*右边图片*/
+	.R-box img{width:48.7rem;height:40rem;margin:1.7rem 1.7rem 1.7rem 0; }
+	/*右边图片  end*/
+/*乾元餐台end*/
+
+/*文昌书桌一排区块*/
+.wcsz{width:90%;height:26rem; margin-top:1.4rem; margin-bottom:1rem;}
+.wc-1{width:23.96rem;height:25.8rem;background:#f0f0f0;margin-right:0.8rem;
+-weikit-border-radius:1.8rem;-moz-border-radius:1.8rem;-ms-border-radius:1.8rem;-o-border-radius:1.8rem;border-radius:1.8rem;;} 
+.last-wc-1{margin-right:0;}
+.shuan{width:5rem;height:5rem;font-size:3.5rem; background:#e55822;text-align: center;line-height:4.5rem;
+-moz-border-radius: 50%;-ms-border-radius: 50%;-webkit-border-radius: 50%;border-radius: 50%;margin:2rem 0 0 2rem;}
+.wcsz .img-box{width:15rem;height:14rem; margin-top:-3.5rem;}
+.wcsz .img-box img{width:15rem;height:13.4rem;}
+.wc-1 .jia{color:#f27f03;margin:0.8rem 1rem 0.5rem 1rem;}
+.wc-1 .jia .txt{color:#333;font-size:2.6rem; }
+.wc-1 .num-box{line-height:2.5rem;}
+.wc-1 .num-box .number{font-size:3rem; }
+.wc-shop-box{ width:22rem; margin-left:1rem; margin-top:0.2rem;}
+
+	/*小叶紫檀手链*/
+.wc-2 .img-box img{width:12.6rem;height:11.7rem;margin-left:1.2rem;}
+	/*小叶紫檀手链end*/
+	
+	/*二维码*/
+.ma-box,.Rwarp{border-radius:1.5rem;}
+.ma-box{width:90%;height:27rem;background:#844e20;}
+.Lwarp{width:54.8rem;height:27rem;background:#fff;position: relative; border-top-left-radius:1.5rem;border-bottom-left-radius:1.5rem;}
+.Lwarp:after{width:0;height:0;content: '';border:27rem solid transparent;border-right-color:#844e20;position:absolute;top:0;right:0;}
+.Lwarp .content{width:52rem;height:17rem; }
+.Lwarp .ma{width:14.3rem;height:14.3rem;background: #844e20;margin:0.8rem 1rem 0 1.7rem;}
+.Lwarp .ma img{width:13rem;height:13rem;margin:0.6rem;}
+.content{position:absolute;z-index: 9999;margin-top:5rem;}
+.txt-box{width:20rem;height:13rem; margin-top:1rem;}
+.txt-box p.matlt{font-size:4rem;color:#844e20;margin-bottom:0.3rem;}
+.txt-box p.matxt{font-size:1rem;font-size:2.4rem;color:#844e20;}
+.Rwarp{width:23rem;height:17rem; position: absolute;right:0rem;z-index: 999;margin-right:6.3rem;
+margin-top:6rem;}
+.Rwarp a{text-align: center;display:block;background:#fff;width:10rem;height:2.2rem;font-size:1.6rem;line-height: 2.2rem;
+border-radius: 1.5rem;margin-top:1.5rem; color:#844e20;}
+	/*空盒子*/
+.bgbox{height:2.6rem;}
+	/*空盒子 end*/
+	/*二维码end*/
+/*文昌书桌一排区块end*/
+/*第二个区域*/
+.two-box{width:100%;height:auto;background:#e26333;overflow:hidden; }
+	/*背景*/
+.box-1{width:90%;height:366rem;background:#ffd20b;margin-top:12.2rem;position:relative;
+-webkit-border-top-left-radius: 1.5rem;-moz-border-top-right-radius: 1.5rem;
+-ms-border-top-right-radius: 1.5rem;-o-border-top-right-radius: 1.5rem;
+border-top-right-radius: 1.5rem;}
+.box-2{width:97%;height:364rem; background:#fff; position: absolute;top:-11.2rem;left:0.8rem;border:0.3rem solid red;}
+.box-3{width:98.5%;height:362.8rem; position: absolute;top:-11.7rem;left:0.5rem;border:0.1rem solid red;}
+.yuan-box-1{width:56rem;height:30rem;margin-left:-28rem; }
+.yuan-box-2{width:64rem;height:45rem;background:#fff;border:0.3rem solid transparent;border-top-color:red;margin-left:-32.5rem; }
+.yuan-box-3{width:66rem;height:50rem; border:0.1rem solid transparent;border-top-color:red;margin-left:-33.5rem; z-index: 22;}
+.yuan-box-1,.yuan-box-3{background:#ffd20b;}
+.yuan-box-1,.yuan-box-2,.yuan-box-3{position:absolute;top:-8rem;left:50%;-webkit-border-radius:50%;
+-moz-border-radius:50%;-ms-border-radius: 50%;-o-border-radius: 50%;border-radius: 50%;}
+	/*背景 end*/
+	/*限时抢购*/
+.yuan-box-3 .tit{margin-top:3rem;margin-left:18rem;}	
+.yuan-box-3 .tit img{width:45.6rem;height:14.4rem;}
+
+	/*清式如意纹花鸟大床*/
+.cbox{width:100%;height:31.6rem; margin:0.8rem 0 1.5rem 0.5rem;}
+.cbox-1{width:32rem;height:31.6rem;margin-right:1.8rem;position:relative;}
+.icon,.m-box .yuan{width:5rem;height:5rem;background: #e55822; -webkit-border-radius: 50%;-moz-border-radius: 50%;
+-ms-border-radius: 50%;-o-border-radius: 50%; border-radius: 50%; position: absolute;top:2.2rem;left:2rem;}
+.icon span{ font-size:3.5rem;text-align: center;line-height:4.5rem;display: inherit;}
+.chuang-box img{width:26.2rem;height:13.5rem;margin-top:8.5rem;margin-left:2.8rem;}
+.chuang-tit{font-size:2.6rem;color:#333;text-align: center;line-height:3.6rem;}
+
+.btn-box{width:20.5rem;height:3.4rem;background:#e55822; border-radius: 0.8rem;-webkit-border-radius: 0.8rem;-ms-border-radius: 0.8rem;-moz-border-radius: 0.8rem;
+-o-border-radius: 0.8rem;border-radius: 0.8rem;}
+.btn-box p{display: inline-block;}
+
+.btn-box p span.sm-fuhao{font-size:1.8rem;margin-left:1rem;}
+.btn-box span.shop{font-size:2rem; line-height: 3.3rem;margin-right:1.5rem;}
+.btn-box p span.sm-shu{font-size:3rem; }
+.cbox-2{margin-right:0;}
+	/*清式如意纹花鸟大床end*/
+	.cbox-1,.hbox,.hbox .btn,.mingyegui,.mingyegui .L-box .btn{background:#f2ebca;-webkit-border-radius: 1.5rem;-ms-border-radius: 1.5rem;-moz-border-radius: 1.5rem;-o-border-radius: 1.5rem;border-radius: 1.5rem;}										
+	/*乾元梳化沙发*/
+	.hbox{width:99.5%;height:37rem; position: relative; margin-bottom:1.5rem;margin-left:0.5rem;}
+	.hbox .tle,.hbox .smtle{text-align: center;color:#333;}
+	.hbox .tle{font-size:3rem;margin-top:2rem;padding:0.5rem 0; }
+	.hbox .smtle{font-size:2.4rem;margin-bottom:2rem;}
+	.hbox p.btn{width:20.6rem;height:4.6rem;border:0.3rem dashed #e55822;position: absolute;left:50%;margin-left:-10.3rem;}
+	.hbox p.btn span{color:#e55822;}
+	.hbox p.btn span.fuhao{font-size:2rem;margin-left:1rem;}
+	.hbox p.btn span.shu{font-size:3.5rem;text-indent: 1rem; line-height:4.5rem; }
+	.hbox .tu{position: absolute;top:12rem;left:37rem;}
+	.hbox a img{width:60.9rem;height:22.5rem;margin-left:2.5rem;margin-top:1.5rem;}
+	
+	/*乾元梳化沙发end*/
+	/*明式霸王弓梳化*/
+	.hbox a.ming img{width:63.3rem;height:18.7rem;}
+	/*明式霸王弓梳化end*/
+	/*博古龙布艺梳化*/
+	.b-box span.jia{margin-left:-1rem;}
+	.b-box i.shu{letter-spacing: -0.1rem;margin-left:-1.5rem;}
+	/*博古龙布艺梳化end*/
+	/*明俭茶台*/
+	.m-box{width:66.3rem;height:55.3rem;background:url(../image/M-bg.png) no-repeat; background-size:cover;}
+	.m-box div.yuan{width:22rem;height:22rem;background:#fff;right:10rem;position:absolute;left:34rem;top:3rem;}
+	.m-box .yuan .btn-box{width:18rem;letter-spacing: -0.1rem;}
+	.m-box .btn-box span.shop{margin-right:1rem;}
+	
+	.m-box a img{margin-top:26rem;}
+	.m-box .icon{margin-top:17rem;left:19rem;}
+ 	.m-box .smtle{line-height:2.5rem;}
+	/*明俭茶台 end*/
+	
+	/*明钰书桌一栏*/
+	.mingji-box a img{width:30.6rem;height:14.3rem;margin:6rem 0 1rem 0.5rem;}
+	.mingji-box .text{margin-left:2rem;}
+	.mingji-box .text p{font-size:3rem;color:#e55822;}
+	.mingji-box .text p .sm-shu{margin-left:-1rem; margin-right:2rem;}
+	
+		/*购物车*/
+		.m-shop{width:30rem;margin-left:1rem;}
+		.m-shop p{text-indent: 10rem; }
+		/*购物车end*/
+		/*法式蝴蝶型餐台*/
+		.fa-box{margin-right:0;}
+		/*法式蝴蝶型餐台 end*/	
+	/*明钰书桌一栏 end*/		
+	
+	
+	/*明极大衣柜*/
+	.mingyegui{width:99%; height:39rem;background:none;border:0.1rem solid red; position:relative;margin-bottom:1.5rem;}
+	.mingyegui .L-box{width:28rem;height:39rem;border:none; margin-right:3rem;}
+	.mingyegui .L-box p.tit1{font-size:5rem;margin-top:6rem;}
+	.mingyegui .L-box p.tit1 span.m{color:#e32b51;font-weight: bold;}
+	.mingyegui .L-box p.tit2{font-size:3.5rem; margin-bottom:0.8rem; line-height: 4.4rem;}
+	.mingyegui .L-box p.tit2,.mingyegui .L-box p.sm-txt{text-indent:3.2rem;}
+	.mingyegui .L-box p.sm-txt{font-size:2.6rem;line-height: 3.2rem;}
+	.mingyegui .L-box .btn{width:16.5rem;height:4rem;background:#ff8500;margin-top:3rem;font-size:3.5rem; }
+ 	.mingyegui .L-box .btn p{margin-left:1rem;}
+	.mingyegui .L-box p.tit1,.mingyegui .L-box .btn{margin-left:3rem;}
+	.mingyegui .icon{position: absolute;top:5rem;left:27rem;}
+	
+	.mingyegui .yigui{margin:3rem 1.5rem 0 1rem;}
+	.mingyegui .yigui img{ width:30rem;height:33.2rem;}
+	/*明极大衣柜 end*/ 
+	/*小叶紫檀手链*/
+	.ztsl-box{background:#fff;border:none;}
+	.ztsl-box .ztsl-img img{width:29.6rem;height:26.1rem;margin-top:8rem;margin-left:3rem;}
+	.ztsl-box .L-box{margin-right:3.1rem;}
+	.ztsl-box .L-box .btn{margin-left:12rem; }
+	.ztsl-box .L-box .icon{top:3rem;left:3rem;}
+	/*小叶紫檀手链*/
+	/*紫光檀幽竹之笔*/
+	.youbi .chuang-box img{width:15rem;height:19rem;margin-top:2.5rem; margin-left:9rem;}
+	/*紫光檀幽竹之笔 end*/
+	/*海南黄花梨*/
+	.hai-sl .mingji img{width:30.5rem;height:18rem;margin-left:0.7rem;}
+	/*海南黄花梨 end*/
+	
+	/*限时抢购end*/
+/*第二个区域end*/
+
+/*抽奖区*/
+.choujian{width:100%;height:36rem;background:#ff8500;margin-top:1.5rem;}
+.choujian img{width:39.4rem;height:29rem;margin-left:20rem;margin-top:3.5rem;}
+/*抽奖区end*/
+
+/*说明*/
+.sming-box{width:100%;height:48rem;background:#bf2118; }
+.sming-box .tlt{font-size:4rem;margin:4rem 0 1rem 0;}
+.sming-box div.txt{width:94%;font-size:2.4rem;line-height:3.6rem;  }
+.sming-box .tlt,.sming-box .txt{text-indent: 4rem;}
+/*说明end*/
+.Rwarp p.matxt,.Rwarp p.matlt,.L-bian p.smtlt,.shuan,.Rwarp p.matlt,.Rwarp p.matxt,.sming-box .tlt,.sming-box .txt,.btn-box p span,.btn-box span.shop,.mingyegui .L-box .btn,.icon span{color:#fff;}
